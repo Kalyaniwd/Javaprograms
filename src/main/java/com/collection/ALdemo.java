@@ -20,8 +20,6 @@ Collection c;
 		al.add(true);
 		al.add(true);
 		al.add(true);
-		al.add(true);
-		al.add(null);
 
 		
 
